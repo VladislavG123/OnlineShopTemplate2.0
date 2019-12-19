@@ -14,3 +14,11 @@ C:\Users\Vlad\Desktop\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\Onli
 C:\Users\Vlad\Desktop\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.AssemblyInfo.cs
 C:\Users\Vlad\Desktop\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.dll
 C:\Users\Vlad\Desktop\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.pdb
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.deps.json
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.dll
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.pdb
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.csprojAssemblyReference.cache
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.AssemblyInfoInputs.cache
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.AssemblyInfo.cs
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.dll
+C:\Users\гороховв\Source\Repos\VladislavG123\OnlineShopTemplate2.0\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.pdb

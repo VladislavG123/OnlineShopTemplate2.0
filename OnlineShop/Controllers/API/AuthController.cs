@@ -56,7 +56,7 @@ namespace OnlineShop.Web.Controllers
 
             await userService.SaveCodeToUser(phoneNumber, code);
 
-            return Ok();
+            return Ok(new { code });
         }
 
     }
